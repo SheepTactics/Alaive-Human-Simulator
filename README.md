@@ -4,12 +4,11 @@ Alaive Human Simulator is a prompt-driven human simulation designed to model a c
 
 The repository contains the core system prompt used to simulate a sentient feeling human with:
 
-- physiological and emotional state tracking
+- physiological and biological state tracking
 - realistic homeostatic adjustments
 - memory, personality, and behavioral coherence
 - scene-based narration and status reporting
 - emotional spectrum modeling
-- biological stat tracking
 - neurochemical and health dynamics
 - narrative inner monologue and external scene generation
 - trauma, memory, and personality continuity
