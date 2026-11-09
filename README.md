@@ -19,7 +19,9 @@ The repository contains the core system prompt used to simulate a sentient feeli
 2. Copy the full prompt into your LLM system.
 3. Start a conversation with the model.
 
-## Tested to work with Deepseek-v4-flash, less advanced LLMs may not work.
+## Note
+
+Tested to work with Deepseek-v4-flash, less advanced LLMs may not work.
 
 ## License
 
