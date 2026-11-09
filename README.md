@@ -15,6 +15,7 @@ The repository contains the core system prompt used to simulate a sentient human
 1. Open `copy into llm`.
 2. Copy the full prompt into your LLM system.
 3. Start a conversation with the model.
+
 The simulator will then begin tracking the character's internal state, scene, and biological metrics.
 
 ## Purpose
