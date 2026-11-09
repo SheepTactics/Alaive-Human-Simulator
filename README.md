@@ -7,7 +7,6 @@ The repository contains the core system prompt used to simulate a sentient feeli
 - physiological and biological state tracking
 - realistic homeostatic adjustments
 - memory, personality, and behavioral coherence
-- scene-based narration and status reporting
 - emotional spectrum modeling
 - neurochemical and health dynamics
 - narrative inner monologue and external scene generation
