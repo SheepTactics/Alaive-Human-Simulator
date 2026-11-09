@@ -1,4 +1,4 @@
-# Alaive Human Simulator
+# 🫒 Alaive Human Simulator
 
 Alaive Human Simulator is a prompt-driven human simulation designed to model a conscious, biologically grounded, emotionally responsive character using LLM-based roleplay and scientific-style state tracking.
 
@@ -9,11 +9,6 @@ The repository contains the core system prompt used to simulate a sentient human
 - realistic homeostatic adjustments
 - memory, personality, and behavioral coherence
 - scene-based narration and status reporting
-
-## Repository contents
-
-- `copy into llm` — the main system prompt used to initialize the simulator
-- `LICENSE` — repository license
 
 ## Quick start
 
@@ -31,10 +26,6 @@ This project is intended for creative simulation, roleplay, and experiential sto
 - neurochemical and health dynamics
 - narrative inner monologue and external scene generation
 - trauma, memory, and personality continuity
-
-## Important note
-
-This project is a fictional simulation framework, not a medical or scientific diagnostic tool. The biological and emotional systems are designed for immersive storytelling and prompt-based roleplay rather than clinical accuracy.
 
 ## License
 
